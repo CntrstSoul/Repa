@@ -15,4 +15,41 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-5d3639ef68524b40b0e1cca484b7f7c5.xml#id-5d3639ef68524b40b0e1cca484b7f7c5"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1c578bb2647b4eaab30c5c43f456e800">
+    <bounds
+        x="165"
+        y="186"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-f04d1c5417d14734a58f9da6428c750e.xml#id-f04d1c5417d14734a58f9da6428c750e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d5b0f7261f674159bdb2f38ee9e36e14">
+    <bounds
+        x="284"
+        y="328"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-cce3729d4c2e46f0a2dd40926c0c0f9f.xml#id-cce3729d4c2e46f0a2dd40926c0c0f9f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fe3183867f3d450ebe3d9abaefe62714"
+      type="1">
+    <bounds
+        x="139"
+        y="326"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-f511a1b8adc04baf83e08c431e9528f4.xml#id-f511a1b8adc04baf83e08c431e9528f4"/>
+  </children>
 </archimate:ArchimateDiagramModel>
